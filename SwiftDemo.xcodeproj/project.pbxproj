@@ -21,6 +21,7 @@
 		32C04FAB1F55798B00F53FA4 /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C04FAA1F55798B00F53FA4 /* ArrayExtension.swift */; };
 		32C04FB41F55857D00F53FA4 /* TestTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32C04FB21F55857D00F53FA4 /* TestTableViewCell.xib */; };
 		32C04FB61F5585FA00F53FA4 /* TestTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C04FB51F5585FA00F53FA4 /* TestTableViewCell.swift */; };
+		32C04FB81F5593B000F53FA4 /* UIDeviceExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C04FB71F5593B000F53FA4 /* UIDeviceExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		32C04FAC1F557E4700F53FA4 /* SwiftDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		32C04FB21F55857D00F53FA4 /* TestTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestTableViewCell.xib; sourceTree = "<group>"; };
 		32C04FB51F5585FA00F53FA4 /* TestTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableViewCell.swift; sourceTree = "<group>"; };
+		32C04FB71F5593B000F53FA4 /* UIDeviceExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDeviceExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				32C04FA61F55790400F53FA4 /* Reusable.swift */,
 				32C04FA81F55793A00F53FA4 /* StringExtension.swift */,
 				32C04FAA1F55798B00F53FA4 /* ArrayExtension.swift */,
+				32C04FB71F5593B000F53FA4 /* UIDeviceExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				32C04FA31F55784700F53FA4 /* CustomerErrorExtension.swift in Sources */,
 				32C04F761F55778B00F53FA4 /* ViewController.swift in Sources */,
 				32C04FA91F55793A00F53FA4 /* StringExtension.swift in Sources */,
+				32C04FB81F5593B000F53FA4 /* UIDeviceExtension.swift in Sources */,
 				32C04F741F55778B00F53FA4 /* AppDelegate.swift in Sources */,
 				32C04FAB1F55798B00F53FA4 /* ArrayExtension.swift in Sources */,
 				32C04FB61F5585FA00F53FA4 /* TestTableViewCell.swift in Sources */,
